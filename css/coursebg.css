@@ -1,0 +1,62 @@
+.webdbg{
+    background: linear-gradient(#96cfb7e0, #8ecbb7c3), url('https://cdn.pixabay.com/photo/2016/09/08/04/12/programmer-1653351_1280.png');
+    background-repeat: no-repeat; 
+    background-position: fixed; 
+    background-size: cover;
+    
+}
+.javabg{
+    background: linear-gradient(#a8f5d5, #8ecbb7be), url('https://cdn.pixabay.com/photo/2023/12/15/11/13/programming-8450423_1280.png');
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+}
+.pythonbg{
+    background: linear-gradient(#8bdebbd6, #8ecbb7be), url('https://cdn.pixabay.com/photo/2021/09/15/08/13/chatbot-6626193_1280.png');
+    background-repeat: no-repeat;
+    background-position: fixed;
+     background-size: cover; 
+}
+.cppbg{
+    background: linear-gradient(#8bdebbd6, #8ecbb7be), url('https://cdn.pixabay.com/photo/2024/08/13/09/37/brain-8965563_1280.png');
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+}
+
+.dsabg{
+    background: linear-gradient(#8bdebbd6, #8ecbb7be), url('https://cdn.pixabay.com/photo/2024/04/25/02/23/ai-generated-8718795_1280.png');
+    background-repeat: no-repeat;
+    background-position: fixed;
+    /* background-size: cover; */
+
+}
+
+.androidbg{
+    background: linear-gradient(#8bdebbd6, #8ecbb7be), url('https://cdn.pixabay.com/photo/2024/06/21/12/50/ai-generated-8844317_1280.png');
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+
+}
+
+.jsbg{
+    background: linear-gradient(#8bdebbd6, #8ecbb7be), url('https://cdn.pixabay.com/photo/2019/07/16/18/18/frontend-4342425_1280.png');
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+}
+.reactbg{
+    background: linear-gradient(#8bdebbd6, #8ecbb7be), url('https://cdn.pixabay.com/photo/2021/11/14/19/04/programming-6795536_1280.png');
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+}
+.nodebg{
+    background: linear-gradient(#8bdebbd6, #8ecbb7be), url('https://cdn.pixabay.com/photo/2022/01/10/18/34/service-6929022_1280.png');
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+}
+
+
